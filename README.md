@@ -11,6 +11,7 @@
 3.Navigate to the project directory from your new created folder
  > cd Farm-Data-Model/server
  
+ 
 4. Install **packages** that run the project.
  > npm install
 
@@ -37,10 +38,10 @@
  
  > SENDGRID_PASSWORD: your **SendGrid** password
  
-4. Run the project in development mode using the following command
+6. Run the project in development mode using the following command
  > npm run dev
  
-6. Test if the project is running correctly
+7. Test if the project is running correctly
  > * Using postman, MongoDB Compass, MongoDB Cloud, etc...*
 
 
