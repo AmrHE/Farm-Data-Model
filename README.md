@@ -16,7 +16,7 @@
 
 5. In the project root folder, create .env file & include the below variables
  > NOVE_ENV: and set it initially to **developmet**
- > PORT: any port (5000 for example)
+ PORT: any port (5000 for example)
  > DATABASE: your MongoDB URL (create from **MongoDB Cloud**)
  > DATABASE_PASSWORD: your DB password
  > JWT_SECRET: a strong JWT secret
