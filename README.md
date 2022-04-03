@@ -1,4 +1,4 @@
-## Farm Data Model & how to use the development setup:
+## Farm Data Model => how to setup the project locally:
 
 
 ### Quicky Setup:
