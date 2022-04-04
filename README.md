@@ -2,7 +2,7 @@
 
 
 ### Quicky Setup:
-* ####Open the command line/Terminal and follow the following steps:
+* #### Open the command line/Terminal and follow the following steps:
 
 1. Make sure you have the latest **npm** set on your current machine.
 
