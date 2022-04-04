@@ -1,8 +1,9 @@
-## Farm Data Model => how to setup the project locally:
+# Farm Data Model:
 
 
 ### Quicky Setup:
-**Open the command line/Terminal and follow the following steps:**
+* ####Open the command line/Terminal and follow the following steps:
+
 1. Make sure you have the latest **npm** set on your current machine.
 
 2. Clone the repo in a new folder using the following command
