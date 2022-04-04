@@ -37,7 +37,7 @@
  
 `SENDGRID_USERNAME: set it to **apikey**`
  
-`SENDGRID_PASSWORD: your **SendGrid** password`
+`SENDGRID_PASSWORD: your **SendGridPassword**`
  
 6. Run the project in development mode using the following command
 `npm run dev`
