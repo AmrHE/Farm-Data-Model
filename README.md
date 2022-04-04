@@ -17,11 +17,11 @@
 `npm install`
 
 5. In the project **server directory**, create **config.env** file & include the below variables
-`NOVE_ENV: and set it initially to **developmet**`
+`NOVE_ENV: and set it initially to developmet`
  
 `PORT: any port (5000 for example)`
  
-`DATABASE: your MongoDB URL (create from **MongoDB Cloud**)`
+`DATABASE: your MongoDB URL (create from MongoDB Cloud)`
  
 `DATABASE_PASSWORD: your DB password`
  
